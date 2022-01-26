@@ -1,0 +1,19 @@
+Ordre de suppresion:
+côte inventaire:
+
+ID_NOURRITURE2
+ID_NOURRITURE
+ID_INVENTAIRE
+
+
+côte personnage:
+/ID_ARME 
+/ID_ARTEFACT
+
+côte joueur:
+->ID_PERSONNAGE
+->ID_INVENRAIRE
+
+INSERT INTO `arme`VALUES (null,748543,11,"test",4,40,30,1)
+
+SELECT `ID_ARME` from arme ORDER BY `ID_ARME` desc LIMIT 1

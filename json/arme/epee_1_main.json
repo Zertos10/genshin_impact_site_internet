@@ -1,0 +1,36 @@
+{
+   "epee_1_main":{
+      "5etoile":[
+         "Épée du faucon",
+         "Lame de la Voute d%27Azur",
+         "Tranche-Sommets"
+      ],
+      "4etoile":[
+         "Piqûre de fer",
+         "Rugissement du lion",
+         "Tailleur de pierre %28prototype%28",
+         "Épée rituelle",
+         "Épée longue royale",
+         "Épée longue de Rochenoire",
+         "Épée de Favonius",
+         "Épée noire",
+         "La flûte",
+         "Épée de la descente",
+         "Croc Suppurant"
+      ],
+      "3etoile":[
+         "Épée Céleste",
+         "Épée en fer noir",
+         "Message de l%27Aube",
+         "Lame froide",
+         "Épée du Voyageur",
+         "Couteau à filets"
+      ],
+      "2etoile":[
+         "Épée en argent"
+      ],
+      "1etoile":[
+         "Épée émoussée"
+      ]
+   }
+}

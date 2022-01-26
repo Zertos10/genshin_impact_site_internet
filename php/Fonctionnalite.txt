@@ -1,0 +1,34 @@
+-Modifier les donnée present 
+-Voir les donnee de :
+	-joueur | -> inventaire -> nourriture 
+		| -> personnage -> artefact
+				-> arme
+
+joueur ( recherche a partir du pseudo ou uid)
+
+-cree des droit pour utilisateur 
+	-joueur | -> inventaire -> nourriture 
+		| -> personnage -> artefact
+				-> arme
+
+-----
+plusieur page
+	-recherche joueur 
+		-affiche stat du joueur 
+		
+		
+	/si le temps /si n'existe pas proposer de le crée 
+		-inventaire
+		-joueur
+		-personnage -> arme -
+	-recherche arme
+		-trie par type d'arme /ordre alpha / niv arme
+		-affiche toute les armes disponible sans joueur
+		
+	-recherche artefact/trie par rarete / trie niv artefact /trie par type d'artefact
+		-affiche toute les artefact disponible relie au joueur 
+		(-modifier artefact 
+			-> modifier stat
+			-> supprimer artefact)
+		
+	
